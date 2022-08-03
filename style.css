@@ -1,0 +1,153 @@
+li, a, button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+    /* text text-decoration: none; */
+}
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 30px 10%;
+
+}
+.logo{
+    cursor: pointer;
+    width: 149px;
+    height: 140px;
+    left: 79px;
+    top: 50%;
+
+}
+
+.nav_link{
+    list-style: none;
+}
+.nav_link{
+    display:inline;
+}
+button{
+    padding: 5px 12px;
+    /* position: absolute; */
+    width: 100px;
+    height: 30px;
+    left: 1325px;
+    top: 104px;
+    border: none;
+    color: aqua;
+    background: blue;
+    border-radius: 6px;
+    /* overflow: hidden; */
+}
+.Hero{
+    position: absolute;
+    width: 160px;
+    height: 248px;
+    left: 950px;
+    top: 409px;
+}
+p{
+    position: absolute;
+    width: 561px;
+    height: 202px;
+    left: 158px;
+    top: 377px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 36px;
+}
+.ab{
+    position: absolute;
+    width: 101px;
+    height: 25px;
+    left: 158px;
+    top: 800px;
+
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.Hire{
+    color: aqua;
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    left: 158px;
+    top: 627px;
+
+background: #0A2D4F;
+border-radius: 6px;
+}
+.ab1{
+    position: absolute;
+    width: 519px;
+    height: 87px;
+    left: 158px;
+    top: 850px;
+    color: #000000;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+}
+
+.game1{
+    position: absolute;
+    width: 240px;
+    height: 500px;
+    left: 950px;    
+    top: 800px;
+    right: 136px;
+}
+.lis{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    position: absolute;
+    width: 494px;
+    height: 148px;
+    left: 158px;
+    top: 950px;
+}
+.Pr1{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    position: absolute;
+    width: 101px;
+    height: 25px;
+    left: 158px;
+    top: 1400px;
+}
+main{
+    position: absolute;
+    padding: 10%;
+    top: 1350px;
+}
+.Box{
+    display:block;
+    padding: 10px;
+    float: left;
+}
+.game2{
+    position: absolute;
+    width: 240px;
+    height: 500px;
+    left: 950px;
+    top: 1450px;
+    right: 136px;
+}
